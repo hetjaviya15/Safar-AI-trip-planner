@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # ✈️ Safar — AI Trip Planner
@@ -7,7 +6,7 @@
 
 **Safar is an AI-powered travel planning app that helps you plan and organize your next trip, all in one place.**
 
-[**📲 Download Safar**]([PASTE_YOUR_APP_DOWNLOAD_LINK_HERE](https://expo.dev/artifacts/eas/NfW2GapuKhVKrET58E0yK651n3Ui2Wwl-0gd52j6dc0.apk))
+[**📲 Download Safar for Android**](https://expo.dev/artifacts/eas/NfW2GapuKhVKrET58E0yK651n3Ui2Wwl-0gd52j6dc0.apk)
 
 </div>
 
@@ -15,42 +14,48 @@
 
 ## 🌍 About Safar
 
-Safar makes it easier to plan trips, explore destinations, and keep your travel plans organized. Whether you prefer to build your itinerary yourself or use AI-generated suggestions, Safar helps you prepare for your next adventure in one place.
+Safar brings your travel plans together in one place. Explore destinations, organize your trip, and create itineraries with the freedom to plan manually or get help from AI suggestions.
 
 ## ✨ Features
 
-- **🌎 Worldwide travel planning** — Plan trips to destinations around the world.
-- **🤖 AI-assisted planning** — Get travel ideas and itinerary suggestions with AI.
-- **🗓️ Manual trip planning** — Create and customize your own itinerary without AI.
-- **📍 Day-by-day itineraries** — Keep activities and places organized for each day.
-- **🧳 Travel organization** — Keep important trip details together.
+- **🌎 Explore destinations** — Discover places and plan trips around the world.
+- **🤖 AI-assisted planning** — Get ideas and suggestions for your next trip.
+- **🗓️ Plan your own way** — Build and customize itineraries without relying on AI.
+- **📍 Day-by-day itineraries** — Organize activities and places for each day.
+- **🧳 Stay organized** — Keep your travel plans and important trip details together.
 
-> Safar is under active development. Features may vary depending on the app version.
+> **Note:** Safar is under active development. Features and availability may vary by version.
 
-## 📲 Download
+## 📲 Download Safar
 
-Get the latest available version of Safar:
+Safar is currently available as an **Android APK**.
 
-### [⬇️ Download Safar]([PASTE_YOUR_APP_DOWNLOAD_LINK_HERE](https://expo.dev/artifacts/eas/NfW2GapuKhVKrET58E0yK651n3Ui2Wwl-0gd52j6dc0.apk))
+### [⬇️ Download Safar APK](https://expo.dev/artifacts/eas/NfW2GapuKhVKrET58E0yK651n3Ui2Wwl-0gd52j6dc0.apk)
 
+Open the link on your Android device, download the APK, and follow your device's instructions to install it.
+
+## 📧 Email Verification
+
+When you create a Safar account, you'll receive a verification email. **You must verify your email address before signing in.**
+
+> **Didn't receive the verification email?** Check your **Spam** or **Junk** folder. If you find the email there, open it and follow the verification link.
 
 ## 🛠️ Built With
 
-- **React Native & Expo** — Mobile app development
+- **React Native & Expo** — Mobile application development
 - **TypeScript** — Application code
 - **Supabase** — Authentication and backend
-- **Groq API** — AI-assisted travel planning through the backend
+- **Groq API** — AI-assisted planning through a backend integration
 
-## 🔒 Repository Information
-
-This repository is the official public information and download page for **Safar**. The application source code is private and is **not included** in this repository.
-
-Safar is **not an open-source project**.
 
 ## 💬 Feedback
 
-Have a suggestion or found a problem? Feel free to open an issue in this repository if Issues are enabled.
+Have feedback or found a bug? You can open an issue in this repository if Issues are enabled.
 
 ---
 
-© 2026 Safar. All rights reserved.
+<div align="center">
+
+**© 2026 Safar. All rights reserved.**
+
+</div>
